@@ -1,4 +1,4 @@
-### JavaScript macro definition enable 
+## JavaScript macro definition enable 
 Current program is for convert macro definiton use in JavaScript.
 For example:
 ~~~C
@@ -26,11 +26,11 @@ return i;
 }
 ~~~
 
-Support:
+##### Support:
 - single macro definition
 - nested macro definition
 
-Usage:
-macro.exe wait_convert_file_name . . . wait_convert_file_name
+##### Usage:
+macro.exe  wait_convert_file_name    . . .    wait_convert_file_name
 
-Notice: You should write you file append .jc rear. Then the final resulat will be .js format. Otherwise the convert ccontent will be added to the original file.!  !  !  
+***Notice***: You should write you file append .jc rear. Then the final resulat will be .js format. Otherwise the convert ccontent will be added to the original file.!  !  !  
