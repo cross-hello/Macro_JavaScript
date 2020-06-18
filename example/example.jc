@@ -1,0 +1,12 @@
+#define doc document
+#define get_id getElementById
+#define get_class GetElementByClass
+#define fun function
+#define auto var
+#nodef hi 
+#define class doc.get_class
+fun hi(){
+auto i=doc.get_id('Hello');
+auto b=class('Hi');
+return i;
+}
